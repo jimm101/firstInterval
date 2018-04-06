@@ -10,6 +10,7 @@
     "start": "node index",
     "test": "node index.test"
   },
-  "author": "Jim",
+  "repository": "jimm101/firstInterval",
+  "author": "jimm101",
   "license": "MIT"
 }
