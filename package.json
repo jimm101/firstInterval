@@ -1,0 +1,15 @@
+{
+  "name": "first-interval",
+  "version": "1.0.0",
+  "description": "setInterval replacement that triggers immediately, and at the given interval",
+  "main": "index.js",
+  "keywords": [
+    "setInterval"
+  ],
+  "scripts": {
+    "start": "node index",
+    "test": "node index.test"
+  },
+  "author": "Jim",
+  "license": "MIT"
+}
